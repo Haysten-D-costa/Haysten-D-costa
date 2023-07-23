@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/www.linkedin.com/in/haysten-d-costa-625515252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/haysten-d-costa-625515252/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/haysten_d_costa/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="www.instagram.com/haysten_d_costa/" height="30" width="40" /></a>
-<a href="https://haystend@gmail.com"><img align="center" width="35" height="40" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/>
+<a href="#"><img align="center" width="35" height="40" src="https://img.icons8.com/color/48/gmail-new.png" alt="gmail-new"/>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
