@@ -2,11 +2,10 @@
 <h3 align="center">A passionate Computer Engineering student from India...</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=haysten-d-costa&label=Profile%20views&color=0e75b6&style=flat" alt="haysten-d-costa" /> </p>
+<h3 align="center" style="color:cyan">⭐CHECKOUT MY NEW PROJECT ⭐ :  <a href="https://github.com/Haysten-D-costa/Ultimate-Tic-Tac-Toe-Game-C-plus-plus">Ultimate Tic-Tac-Toe Game !</a></h3>
 
 - 🔭 I’m currently working on **Improving skills !**
-
 - 💬 Ask me about **C/C++, HTML, CSS**
-
 - 📫 How to reach me **haystend@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
